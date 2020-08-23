@@ -1,4 +1,4 @@
-<h1>Solutions Posted every week <h1>
+<h1>Solutions Posted every week </h1>
 # [LeetCode-Solutions](https://leetcode.com/problemset/all/)
 
 
